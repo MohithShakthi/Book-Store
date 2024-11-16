@@ -5,7 +5,7 @@ Welcome to the BookStore project, a fully functional online bookstore built usin
 ## Team Members
 
 - T Mohith Shakthi
-- Mohanarangam
+- Mohanarangan
 - Manojh Pa
 - Manisha 
 
